@@ -1,0 +1,26 @@
+https://gist.github.com/alexhawkins/28aaf610a3e76d8b8264
+https://engineering.videoblocks.com/web-architecture-101-a3224e126947
+
+
+Read this 1st
+https://blog.cloudboost.io/the-state-of-web-applications-3f789a18b810
+https://frontendmasters.com/books/front-end-handbook/2019/
+https://medium.com/@jeffrey.allen.lewis/http-requests-compared-why-axios-is-better-than-node-fetch-more-secure-can-handle-errors-better-39fde869a4a6
+
+ 
+
+
+interview:
+https://www.edureka.co/blog/interview-questions/react-interview-questions/
+https://medium.freecodecamp.org/react-interview-question-what-gets-rendered-in-the-browser-a-component-or-an-element-1b3eac777c85
+https://github.com/yangshun/front-end-interview-handbook/blob/master/questions/javascript-questions.md
+https://hackernoon.com/50-data-structure-and-algorithms-interview-questions-for-programmers-b4b1ac61f5b0
+
+React
+https://www.fullstackreact.com/
+https://www.fullstackreact.com/30-days-of-react/day-13/
+https://reactjs.org/docs/jsx-in-depth.html
+
+
+VS CODE:
+https://stackoverflow.com/questions/48999530/emmet-js-snippets-in-vs-code //emmet

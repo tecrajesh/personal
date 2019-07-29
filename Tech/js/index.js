@@ -1,6 +1,7 @@
 
-console.log('index') //eslint-disable-line no-console
+console.log('started...') //eslint-disable-line no-console
 include("../js/designPattern/singleton.js");
+include("../js/designPattern/observer.js");
 
 
 function include(jsFilePath) {
@@ -10,3 +11,6 @@ function include(jsFilePath) {
   document.body.appendChild(js);
 
 }
+
+
+console.log('Completed...') //eslint-disable-line no-console

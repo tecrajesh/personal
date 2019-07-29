@@ -32,5 +32,5 @@ var singleTon = (function () {
 
 var myObj = singleTon.getInstance();
 var myObj1 = singleTon.getInstance();
-console.log(myObj.getRandom() === myObj1.getRandom()) //true
+//console.log(myObj.getRandom() === myObj1.getRandom()) //true
 
