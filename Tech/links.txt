@@ -7,8 +7,6 @@ https://blog.cloudboost.io/the-state-of-web-applications-3f789a18b810
 https://frontendmasters.com/books/front-end-handbook/2019/
 https://medium.com/@jeffrey.allen.lewis/http-requests-compared-why-axios-is-better-than-node-fetch-more-secure-can-handle-errors-better-39fde869a4a6
 
- 
-
 
 interview:
 https://www.edureka.co/blog/interview-questions/react-interview-questions/
@@ -24,3 +22,60 @@ https://reactjs.org/docs/jsx-in-depth.html
 
 VS CODE:
 https://stackoverflow.com/questions/48999530/emmet-js-snippets-in-vs-code //emmet
+
+Watch list
+https://blog.logrocket.com/new-horizons-in-css-houdini-and-the-paint-api-8b307cf387bb
+https://www.telerik.com/blogs/5-things-i-didnt-know-about-create-react-app
+https://howhttps.works/episodes/
+https://reactjs.org/blog/2018/10/01/create-react-app-v2.html
+https://facebook.github.io/react/blog/2017/07/26/error-handling-in-react-16.html _ MW
+https://medium.com/@ryanflorence/react-context-and-re-renders-react-take-the-wheel-cd1d20663647 _ must watch
+https://testingjavascript.com/ _ must watch
+https://www.youtube.com/watch?v=pUEqsB0L_lg
+https://www.youtube.com/watch?v=6QGOgElaVoc
+https://www.youtube.com/watch?v=nVcjaiTRgSY
+https://www.youtube.com/playlist?list=PLPxbbTqCLbGE5AihOSExAa4wUM-P42EIJ
+https://twitter.com/TheLarkInn/status/1056729742437543936
+https://medium.com/@dan_abramov/making-sense-of-react-hooks-fdbde8803889
+https://reactpodcast.com/27
+https://twitter.com/sophiebits/status/1058448900460138497
+https://www.reddit.com/r/reactjs/comments/9u98t6/lessons_from_refactoring_an_entire_app_from/
+https://www.youtube.com/watch?v=Qsoj4s_Ml6s&feature=youtu.be
+https://codesandbox.io/s/kw21kn3063 - https://twitter.com/Raathigesh/status/1061957878813089793
+https://www.youtube.com/watch?v=CpPCJigsPNY
+https://egghead.io/courses/develop-react-applications-with-mobx-and-typescript?utm_source=drip&utm_medium=email&utm_term=react&utm_content=develop-react-applications-with-mobx-and-typescript
+
+
+https://egghead.io/series/getting-started-with-redux
+https://jrsinclair.com/articles/2018/react-redux-javascript-architecture/
+
+http://krasimirtsonev.com/blog/article/debugging-your-front-end-like-is-2019
+https://learnredux.com/
+http://courses.reactjsprogram.com/courses/reactjsfundamentals
+https://babeljs.io/docs/learn-es2015/
+https://javascriptreport.com/js-frameworks-fastest\
+
+https://www.youtube.com/watch?v=DTrWeUaZRJk&feature=youtu.be&t=1060
+https://www.youtube.com/watch?v=mbiryVTIJ4Q
+https://github.com/tc39/proposals
+
+
+For interviews	: 
+https://javascript.info/array
+https://blog.mgechev.com/2012/08/29/self-invoking-functions-in-javascript-or-immediately-invoked-function-expression/vl
+
+https://web3js.readthedocs.io/en/latest/styleguide.html
+
+
+https://jsbooks.revolunet.com/
+
+https://www.youtube.com/watch?v=mLMfx8BEt8g
+
+
+http://bonsaiden.github.io/JavaScript-Garden/
+
+
+https://medium.com/@fagnerbrack/to-create-an-evolvable-api-stop-thinking-about-urls-2ad8b4cc208e
+
+https://reactkungfu.com/2015/08/pros-and-cons-of-using-immutability-with-react-js/
+

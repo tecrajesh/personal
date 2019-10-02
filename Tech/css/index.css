@@ -1,1 +1,55 @@
-pos:
+.form-row {
+ padding: 10px 0;
+ display: flex;
+}
+
+.form-row  label{
+ padding-right: 10px;
+ flex:1;
+}
+
+.form-row input{
+ flex: 1;
+}
+
+.column-layout {
+  max-width: 1300px;
+  background-color: #fff;
+  margin: 40px auto 0 auto;
+  line-height: 1.65;
+  padding: 20px 50px;
+  display: flex;
+  justify-content: space-around;
+}
+.main-column {
+  flex: 3;
+  order:2;
+}
+.sidebar-one{
+  flex: 1;
+  order:1;
+}
+.sidebar-two{
+flex: 1;
+order:3;
+}
+
+.call-outs-container{
+  max-width: 1400px;
+  margin: 40px auto 0 auto;
+  display: flex;
+  justify-content: space-around;
+  
+}
+.call-out {
+  padding: 20px;
+  margin-bottom: 20px;
+  box-sizing: border-box;
+  flex-basis: 30%;
+}
+
+.call-out:nth-child(1) {background: #c0dbe2;}
+.call-out:nth-child(2) {background: #cdf1c3;}
+.call-out:nth-child(3) {background: #ccb9da;}
+
+

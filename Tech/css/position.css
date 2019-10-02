@@ -1,0 +1,32 @@
+html {
+ background-color: red;
+ padding: 10px;
+}
+
+
+body {
+  background-color: yellow;
+  padding: 10px;
+  margin:0;
+  position: relative;
+  top:50px;
+} 
+
+footer {
+  background-color: rosybrown;
+  margin: 10px;
+}
+
+nav {
+ background-color: brown;
+ margin:10px;
+ position: relative;
+ top:100px;
+}
+
+header {
+ background-color: green;
+ position: absolute;
+ top:0;
+ left:0;
+}
